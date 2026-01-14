@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hazel Phonie Palang</h1>
+<h1 align="center">Hi 👋, I'm Hazel Phonie P. Palang</h1>
 <h3 align="center">A 2nd Year student in University of Mindanao, to become a Web Developer.</h3>
 
 - 🔭 I’m currently working on **Full Stack Website**
