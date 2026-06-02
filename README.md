@@ -101,13 +101,14 @@ I build things for the web — clean UIs, functional systems, and everything in 
 
 ## 🏆 achievements & milestones
 
-<div align="center">
+<<div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=HazelPhoniePalang&theme=radical&no-frame=true&column=6&margin-w=8&margin-h=8)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HazelPhoniePalang&theme=rose_pine)
 
-<br/>
-
-![](https://github-contributor-stats.vercel.app/api?username=HazelPhoniePalang&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HazelPhoniePalang&theme=rose_pine)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HazelPhoniePalang&theme=rose_pine)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HazelPhoniePalang&theme=rose_pine)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HazelPhoniePalang&theme=rose_pine&utcOffset=8)
 
 </div>
 
