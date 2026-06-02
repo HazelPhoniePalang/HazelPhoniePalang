@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:fce4ec,30:f8bbd0,60:f48fb1,100:f06292&height=220&section=header&text=Hazel%20Phonie%20Palang&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=web%20developer%20✦%20frontend%20enthusiast%20✦%20forever%20learning&descAlignY=62&descColor=fff0f5&animation=twinkling&fontAlignX=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:fce4ec,30:f8bbd0,60:f48fb1,100:f06292&height=220&section=header&text=Hazel%20Phonie%20P.%20Palang&fontSize=44&fontColor=ffffff&fontAlignY=40&desc=python%20developer%20✦%20frontend%20enthusiast%20✦%20forever%20learning&descAlignY=62&descColor=fff0f5&animation=twinkling&fontAlignX=50" />
 
 </div>
 
@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=20&pause=1200&color=e91e8c&center=true&vCenter=true&width=680&lines=%F0%9F%8C%B8+2nd+Year+BSIT+%40+Davao+%7C+Building+for+the+web;%F0%9F%A7%81+Turning+ideas+into+elegant+interfaces;%F0%9F%8C%B9+HTML+%2B+CSS+%2B+JS+%2B+PHP+%2B+Laravel;%E2%9C%A8+Design-first%2C+always;%F0%9F%92%AB+Crafting+with+care%2C+shipping+with+love)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=20&pause=1200&color=e91e8c&center=true&vCenter=true&width=680&lines=%F0%9F%8C%B8+2nd+Year+BSIT+%40+Davao+City+%7C+Building+for+the+web;%F0%9F%90%8D+Python+Developer+%2B+Frontend+Enthusiast;%F0%9F%8C%B9+HTML+%2B+CSS+%2B+JS+%2B+PHP+%2B+Python+%2B+Laravel;%F0%9F%A7%A0+Grinding+LeetCode+%2B+Building+Side+Projects;%E2%9C%A8+Design-first%2C+always;%F0%9F%92%AB+Crafting+with+care%2C+shipping+with+love)](https://git.io/typing-svg)
 
 </div>
 
@@ -21,19 +21,19 @@
 
 ```yaml
 ╭──────────────────────────────────────────╮
-│  ♡  name     : Hazel Phonie Palang       │
+│  ♡  name     : Hazel Phonie P. Palang    │
 │  ✦  degree   : BS Information Technology │
 │  🌸  year     : 2nd Year                 │
-│  💻  focus    : Web Development          │
+│  💻  focus    : Python + Front-End Dev   │
 │  ✨  vibe     : Design meets Code        │
-│  🌷  status   : [ Learning & Building ]  │
-│  📍  location : Davao, PH  🇵🇭            │
+│  🌷  status   : [ Building & Grinding ]  │
+│  📍  location : Davao City, PH  🇵🇭       │
 ╰──────────────────────────────────────────╯
 ```
 
-I build things for the web — clean UIs, functional systems, and everything in between. Currently sharpening my full-stack skills with a soft spot for **frontend design** and **user experience**.
+I build things for the web — clean UIs, functional systems, and everything in between. Currently sharpening my full-stack skills with a focus on **Python development** and **frontend design**, while grinding LeetCode on the side.
 
-> *✦ "First, solve the problem. Then, write the code." ✦*
+> *✦ "The version of me six months from now is reason enough to keep going." ✦*
 
 <br clear="right"/>
 
@@ -43,7 +43,7 @@ I build things for the web — clean UIs, functional systems, and everything in 
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/@hnrhzle-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=f48fb1)](https://instagram.com/@hnrhzle)
+[![Instagram](https://img.shields.io/badge/@hnrhzle-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=f48fb1)](https://instagram.com/hnrhzle)
 [![Gmail](https://img.shields.io/badge/palanghazelphonie00%40gmail.com-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=f06292)](mailto:palanghazelphonie00@gmail.com)
 
 </div>
@@ -87,14 +87,16 @@ I build things for the web — clean UIs, functional systems, and everything in 
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=HazelPhoniePalang&show_icons=true&theme=rose_pine&hide_border=true&include_all_commits=false&count_private=false&bg_color=fff0f5&title_color=e91e8c&icon_color=f06292&text_color=ad1457" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=HazelPhoniePalang&show_icons=true&theme=rose_pine&hide_border=true&include_all_commits=true&count_private=true&bg_color=fff0f5&title_color=e91e8c&icon_color=f06292&text_color=ad1457" />
+&nbsp;
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HazelPhoniePalang&layout=compact&theme=rose_pine&hide_border=true&bg_color=fff0f5&title_color=e91e8c&text_color=ad1457" />
 
-<br/>
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=HazelPhoniePalang&theme=rose_pine&hide_border=true&background=fff0f5&stroke=f48fb1&ring=e91e8c&fire=f06292&currStreakLabel=ad1457&sideLabels=ad1457&currStreakNum=880e4f&sideNums=880e4f&dates=c2185b" />
 
 </div>
+
 ---
 
 ## 🏆 achievements & milestones
