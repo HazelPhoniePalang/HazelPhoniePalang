@@ -103,9 +103,7 @@ I build things for the web — clean UIs, functional systems, and everything in 
 
 <div align="center">
 
-[![Hazel's GitHub Skyline](https://skyline.github.com/HazelPhoniePalang/2024)](https://skyline.github.com/HazelPhoniePalang/2024)
-
-> ✦ *view my contribution skyline in 3D* 🌸
+![](https://metrics.lecoq.io/HazelPhoniePalang?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FManila)
 
 </div>
 
