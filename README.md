@@ -103,7 +103,9 @@ I build things for the web — clean UIs, functional systems, and everything in 
 
 <div align="center">
 
-![snake gif](https://github.com/HazelPhoniePalang/HazelPhoniePalang/blob/output/github-contribution-grid-snake-dark.svg)
+[![Hazel's GitHub Skyline](https://skyline.github.com/HazelPhoniePalang/2024)](https://skyline.github.com/HazelPhoniePalang/2024)
+
+> ✦ *view my contribution skyline in 3D* 🌸
 
 </div>
 
