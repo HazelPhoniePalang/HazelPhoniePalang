@@ -101,7 +101,7 @@ I build things for the web — clean UIs, functional systems, and everything in 
 
 ## 🏆 achievements & milestones
 
-<<div align="center">
+<div align="center">
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HazelPhoniePalang&theme=rose_pine)
 
