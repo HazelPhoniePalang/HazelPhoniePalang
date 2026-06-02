@@ -103,12 +103,7 @@ I build things for the web — clean UIs, functional systems, and everything in 
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HazelPhoniePalang&theme=rose_pine)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HazelPhoniePalang&theme=rose_pine)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HazelPhoniePalang&theme=rose_pine)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HazelPhoniePalang&theme=rose_pine)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HazelPhoniePalang&theme=rose_pine&utcOffset=8)
+![snake gif](https://github.com/HazelPhoniePalang/HazelPhoniePalang/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
