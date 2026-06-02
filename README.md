@@ -44,7 +44,7 @@ I build things for the web — clean UIs, functional systems, and everything in 
 <div align="center">
 
 [![Instagram](https://img.shields.io/badge/@hnrhzle-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=f48fb1)](https://instagram.com/@hnrhzle)
-[![Gmail](https://img.shields.io/badge/hazelphoniepalang%40gmail.com-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=f06292)](mailto:hazelphoniepalang@gmail.com)
+[![Gmail](https://img.shields.io/badge/palanghazelphonie00%40gmail.com-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=f06292)](mailto:palanghazelphonie00@gmail.com)
 
 </div>
 
