@@ -88,7 +88,8 @@ I build things for the web — clean UIs, functional systems, and everything in 
 <div align="center">
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=HazelPhoniePalang&theme=rose_pine&hide_border=true&background=fff0f5&stroke=f48fb1&ring=e91e8c&fire=f06292&currStreakLabel=ad1457&sideLabels=ad1457&currStreakNum=880e4f&sideNums=880e4f&dates=c2185b" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=HazelPhoniePalang&theme=rose_pine&hide_border=true" />
+
 
 </div>
 
