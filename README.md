@@ -117,7 +117,7 @@
 ┌───────────────────────────────────────────────────┐
 │                                                     │
 │  ✦ Advancing Python skills & web frameworks        │
-│  ✦ Building Front-end projects           │
+│  ✦ Building Front-end projects                     │
 │  ✦ Exploring Business Analytics & Data Tools       │
 │  ✦ Mastering UI/UX design principles               │
 │  ✦ Contributing to open-source projects            │
