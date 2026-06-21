@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=f06292,f48fb1,fce4ec&height=260&section=header&text=Hazel%20Phonie%20P.&fontSize=50&fontColor=ffffff&fontAlignY=45&desc=Python%20%26%20Frontend%20Developer%20%7C%20BSIT%20Student%20%7C%20Crafting%20Beautiful%20Code&descSize=18&descAlignY=70&descColor=fff0f5&animation=fadeIn&fontAlignX=50" />
+<!-- ANIMATED HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:fce4ec,30:f8bbd0,60:f48fb1,100:f06292&height=220&section=header&text=Hazel%20Phonie%20P.%20Palang&fontSize=44&fontColor=ffffff&fontAlignY=40&desc=python%20developer%20✦%20frontend%20enthusiast%20✦%20forever%20learning&descAlignY=62&descColor=fff0f5&animation=twinkling&fontAlignX=50" />
 
 </div>
 
@@ -13,15 +13,15 @@
 
 ```
 ╔══════════════════════════════════════════════════╗
-║                                                  ║
-║  • 2nd Year BSIT @ University of Mindanao      ║
-║  • Location: Davao City, Philippines 🇵🇭         ║
-║                                                  ║
-║  Specializing in Python | Web Development       ║
-║  with a passion for UI/UX & Data Analytics      ║
-║                                                  ║
-║  ✦ Design-first thinker | Code-driven builder  ║
-║                                                  ║
+║                                                    ║
+║  • 2nd Year BSIT @ University of Mindanao         ║
+║  • Location: Davao City, Philippines 🇵🇭          ║
+║                                                    ║
+║  Specializing in Python | Web Development         ║
+║  with a passion for UI/UX & Data Analytics        ║
+║                                                    ║
+║  ✦ Design-first thinker | Code-driven builder     ║
+║                                                    ║
 ╚══════════════════════════════════════════════════╝
 ```
 
@@ -29,17 +29,34 @@
 
 ---
 
-## 💻 **Tech Arsenal**
+## 🌷 tech stack
 
 <div align="center">
 
-| **Languages** | **Frameworks** | **Databases** | **Tools** |
-|:---:|:---:|:---:|:---:|
-| ![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white) | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-005C87?style=flat-square&logo=mysql&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) | ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) | ![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) | ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
-| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | ![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=flat-square&logo=python&logoColor=white) | — | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
-| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) | — | ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white) |
+### ✦ Languages
+
+![HTML5](https://img.shields.io/badge/HTML5-e57373?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-f06292?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ffd54f?style=for-the-badge&logo=javascript&logoColor=555)
+![PHP](https://img.shields.io/badge/PHP-ce93d8?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-81d4fa?style=for-the-badge&logo=python&logoColor=555)
+![Java](https://img.shields.io/badge/Java-ffb74d?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### ✦ Frameworks & Libraries
+
+![Laravel](https://img.shields.io/badge/Laravel-f48fb1?style=for-the-badge&logo=laravel&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-80deea?style=for-the-badge&logo=tailwind-css&logoColor=555)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-ce93d8?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### ✦ Tools & Platforms
+
+![MySQL](https://img.shields.io/badge/MySQL-81d4fa?style=for-the-badge&logo=mysql&logoColor=555)
+![Apache](https://img.shields.io/badge/Apache-ef9a9a?style=for-the-badge&logo=apache&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-424242?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-80cbc4?style=for-the-badge&logo=netlify&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-ffb74d?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-80deea?style=for-the-badge&logo=canva&logoColor=555)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-81d4fa?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
 </div>
 
@@ -97,15 +114,15 @@
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────────┐
-│                                                 │
-│  ✦ Advancing Python skills & web frameworks    │
-│  ✦ Building freelance portfolio projects       │
-│  ✦ Exploring Business Analytics & Data Tools   │
-│  ✦ Mastering UI/UX design principles           │
-│  ✦ Contributing to open-source projects        │
-│                                                 │
-└─────────────────────────────────────────────────┘
+┌───────────────────────────────────────────────────┐
+│                                                     │
+│  ✦ Advancing Python skills & web frameworks        │
+│  ✦ Building Front-end projects           │
+│  ✦ Exploring Business Analytics & Data Tools       │
+│  ✦ Mastering UI/UX design principles               │
+│  ✦ Contributing to open-source projects            │
+│                                                     │
+└───────────────────────────────────────────────────┘
 ```
 
 </div>
