@@ -4,7 +4,10 @@
 
 </div>
 
+<div align="center">
+
 ```
+
 ╔══════════════════════════════════════════════════╗
 ║                                                  ║
 ║  • 2nd Year BSIT @ University of Mindanao        ║
@@ -16,7 +19,10 @@
 ║  ✦ Design-first thinker | Code-driven builder    ║
 ║                                                  ║
 ╚══════════════════════════════════════════════════╝
+
 ```
+</div>
+
 
 <div align="center">
 
