@@ -14,9 +14,8 @@
 ║  • Location: Davao City, Philippines 🇵🇭          ║
 ║                                                  ║
 ║  Specializing in Python | Web Development        ║
-║  with a passion for UI/UX & Data Analytics       ║
 ║                                                  ║
-║  ✦ Design-first thinker | Code-driven builder    ║
+║  ✦ Design-first thinker | Code-driven builder   ║
 ║                                                  ║
 ╚══════════════════════════════════════════════════╝
 
