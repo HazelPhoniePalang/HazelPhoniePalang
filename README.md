@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Hazel — Python Developer 👋
+# Hi, I'm Hazel — Wanna be Python Developer👋
 
 </div>
 
@@ -8,16 +8,16 @@
 
 ```
 
-╔══════════════════════════════════════════════════╗
-║                                                  ║
-║  • 2nd Year BSIT @ University of Mindanao        ║
-║  • Location: Davao City, Philippines 🇵🇭          ║
-║                                                  ║
-║  Specializing in Python | Web Development        ║
-║                                                  ║
-║  ✦ Design-first thinker | Code-driven builder   ║
-║                                                  ║
-╚══════════════════════════════════════════════════╝
+╔═════════════════════════════════════════════════╗
+║                                                 ║
+║  • 3rd Year BSIT @ University of Mindanao       ║
+║  • Location: Davao City, Philippines 🇵🇭         ║
+║                                                 ║
+║  Specializing in Python | Web Development       ║
+║                                                 ║
+║  Design-first thinker | Code-driven builder     ║
+║                                                 ║
+╚═════════════════════════════════════════════════╝
 
 ```
 </div>
