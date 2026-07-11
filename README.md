@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Hazel — Wanna be Python Developer👋
+# Hi, I'm Hazel👋
 
 </div>
 
@@ -12,8 +12,6 @@
 ║                                                 ║
 ║  • 3rd Year BSIT @ University of Mindanao       ║
 ║  • Location: Davao City, Philippines 🇵🇭         ║
-║                                                 ║
-║  Specializing in Python | Web Development       ║
 ║                                                 ║
 ║  Design-first thinker | Code-driven builder     ║
 ║                                                 ║
