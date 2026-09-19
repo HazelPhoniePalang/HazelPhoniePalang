@@ -84,7 +84,6 @@ University of Mindanao
 ![MySQL](https://img.shields.io/badge/MySQL-D4AF6A?style=for-the-badge\&logo=mysql\&logoColor=0A122A)
 ![Firebase](https://img.shields.io/badge/Firebase-C9A96E?style=for-the-badge\&logo=firebase\&logoColor=0A122A)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-B8A47E?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=0A122A)
-![SSMS](https://img.shields.io/badge/SSMS-E6C98A?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=0A122A)
 
 <br>
 
