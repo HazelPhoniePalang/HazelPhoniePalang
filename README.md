@@ -20,7 +20,7 @@
 <tr>
 <td align="center" width="50%">
 
-🎓 **3rd Year BSIT**
+🎓 **3rd Year BSIT** of 
 University of Mindanao
 
 </td>
